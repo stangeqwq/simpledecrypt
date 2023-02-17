@@ -3,6 +3,10 @@ This python script decrypts simple ciphers such as substitution and caesar ciphe
 
 For different files, the frequency placement of the letters may vary. On this fact, some texts might not be fully decrypted. Regardless, important information about the main plaintext can still be found via the program.
 
+## Motivation
+
+Ciphers, cryptography, and programming are categories in CTFs. This simple exercise I did was to improve these skills as well as to be accustomed in sharing my work in github and working in github.
+
 ## Usage
 
 Let's say we are given a ciphertext such as this [one](encryptedsub.txt).
