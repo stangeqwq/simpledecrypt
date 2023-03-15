@@ -1,5 +1,5 @@
 # simpledecrypt
-This python script decrypts simple ciphers such as substitution and caesar ciphers. The method used by the programming is frequency analysis. By having a reference text in plain text to generate a reference frequency table, the program is able to take in ciphertext using the ciphers above and decrypt them. The reference frequency table was based on the first chapter of Harry Potter the sorcerer's stone.
+This python script decrypts simple ciphers such as substitution and caesar ciphers. The method used by the program is frequency analysis. By having a reference text in plain text to generate a reference frequency table, the program is able to take in ciphertext using the ciphers above and decrypt them. The reference frequency table was based on the first chapter of Harry Potter the sorcerer's stone.
 
 For different files, the frequency placement of the letters may vary. On this fact, some texts might not be fully decrypted. Regardless, important information about the main plaintext can still be found via the program.
 
