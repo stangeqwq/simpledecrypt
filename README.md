@@ -30,7 +30,7 @@ The program is executed as below:
 (base) stange@ericjoshua simpledecrypt % python3 simpledecrypt.py
 /path/to/file:encryptedsub.txt
 ```
-Upon entering, we receive an output txt file in the same directory with the name `decrypted.txt`. Printing out the content on the conse shows that the program works!
+Upon entering, we receive an output txt file in the same directory with the name `decrypted.txt`. Printing out the content on the terminal shows that the program works!
 
 ```console
 (base) stange@ericjoshua simpledecrypt % cat decrypted.txt
