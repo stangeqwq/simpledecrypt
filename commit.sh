@@ -1,4 +1,6 @@
 #!/bin/bash
+# for some reason crontab can't get permission to run this (VERY ANNOYING UGHHH)
+# convert to python instead that works (checked using simple everyminute cron print "hello")
 
 # Specify the path to your Git repository
 GIT_REPO_PATH="/Users/stange/Desktop/misc/simpledecrypt"
