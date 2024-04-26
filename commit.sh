@@ -17,3 +17,7 @@ git add "$TEXT_FILE"
 
 # Commit the changes with a message
 git commit -m "Automatically add 'commit' to $TEXT_FILE"
+
+# Push the comit
+
+git push
