@@ -10,7 +10,7 @@ TEXT_FILE="filename.txt"
 cd "$GIT_REPO_PATH" || exit
 
 # Add "commit" to the text file
-echo "commit" >> "$TEXT_FILE"
+echo "commit\n" >> "$TEXT_FILE"
 
 # Stage the changes
 git add "$TEXT_FILE"
