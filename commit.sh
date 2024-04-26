@@ -19,5 +19,6 @@ git add "$TEXT_FILE"
 git commit -m "Automatically add 'commit' to $TEXT_FILE"
 
 # Push the comit
-
 git push
+
+# have the script running in a cronttab every hour, every day, for green :D
