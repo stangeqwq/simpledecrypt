@@ -1,6 +1,9 @@
 import subprocess
 import os
 
+# Set SSH key and configuration for Git
+os.environ['GIT_SSH_COMMAND'] = 'ssh -i ~/.ssh/id_rsa -o UserKnownHostsFile=/dev/null -o StrictHostKeyChecking=no'
+
 # Specify the path to your Git repository
 GIT_REPO_PATH = "/Users/stange/Desktop/misc/simpledecrypt"
 
